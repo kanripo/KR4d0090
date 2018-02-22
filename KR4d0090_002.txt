@@ -6,7 +6,11 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
 #+PROPERTY: FILE SB04n0249-002張右史文集-卷第二.
+
+# SB1_0999-002.png
+# page missing
 <pb:KR4d0090_SBCK_002-1a>¶
+# SB1_0999-003.png
 而遂臣始盤桓于壽春兮盖嘗挫而益振驅¶
 𧴀虎于順流兮臨長江之廣津馳千里之玉¶
 帛兮擁百萬之精軍計其一時之氣兮固叱¶
